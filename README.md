@@ -1,0 +1,1 @@
+This is a Rock Vs Rock Prediction ML project which uses Logistic Regression Model
